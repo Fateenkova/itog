@@ -1,0 +1,15 @@
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\itogprog\bin\Debug\net6.0\itogprog.exe
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\itogprog\bin\Debug\net6.0\itogprog.deps.json
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\itogprog\bin\Debug\net6.0\itogprog.runtimeconfig.json
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\itogprog\bin\Debug\net6.0\itogprog.dll
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\itogprog\bin\Debug\net6.0\itogprog.pdb
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\itogprog\obj\Debug\net6.0\itogprog.csproj.AssemblyReference.cache
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\itogprog\obj\Debug\net6.0\itogprog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\itogprog\obj\Debug\net6.0\itogprog.AssemblyInfoInputs.cache
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\itogprog\obj\Debug\net6.0\itogprog.AssemblyInfo.cs
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\itogprog\obj\Debug\net6.0\itogprog.csproj.CoreCompileInputs.cache
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\itogprog\obj\Debug\net6.0\itogprog.dll
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\itogprog\obj\Debug\net6.0\refint\itogprog.dll
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\itogprog\obj\Debug\net6.0\itogprog.pdb
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\itogprog\obj\Debug\net6.0\itogprog.genruntimeconfig.cache
+C:\Users\sergey\Desktop\гит\гит новая\C#DZ\itogprog\obj\Debug\net6.0\ref\itogprog.dll
